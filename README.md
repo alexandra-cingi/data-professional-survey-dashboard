@@ -6,11 +6,21 @@ This project transforms raw survey data from over 600 data professionals into an
 
 ### Dashboard Preview
 
-![Dashboard Screenshot](Images/Dashboard Screenshot.jpeg)
+![Dashboard Screenshot](Images/Dashboard%20Screenshot.jpeg)
 
 Above: A preview of the interactive dashboard showing global survey results.
 
-The "Colonel" of the Analysis
+#### Detailed Views
+
+To provide a deeper look at the specific insights, the following close-ups highlight key areas of the analysis:
+
+![Dashboard Screenshot](Images/Dashboard%20Screenshot.jpeg)
+
+![Dashboard Screenshot](Images/Dashboard%20Screenshot.jpeg)
+
+![Dashboard Screenshot](Images/Dashboard%20Screenshot.jpeg)
+
+The Analysis
 
 The dashboard provides a high-level view of the data profession, answering key questions such as:
 
