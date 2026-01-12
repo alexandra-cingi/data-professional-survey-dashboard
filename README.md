@@ -16,7 +16,7 @@ To provide a deeper look at the specific insights, the following close-ups highl
 
 ![Dashboard Screenshot](Images/Countries%20and%20Favourite%20Languages.jpeg)
 
-![Dashboard Screenshot](Images/Dashboard%20Screenshot.jpeg)
+![Dashboard Screenshot](Images/Average%20Salary%20by%20Job%20Title.jpeg)
 
 ![Dashboard Screenshot](Images/Dashboard%20Screenshot.jpeg)
 
