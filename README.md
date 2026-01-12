@@ -6,7 +6,7 @@ This project transforms raw survey data from over 600 data professionals into an
 
 ### Dashboard Preview
 
-![Dashboard Screenshot](path/to/your/image.png)
+![Dashboard Screenshot](Images/Dashboard Screenshot.jpeg)
 
 Above: A preview of the interactive dashboard showing global survey results.
 
