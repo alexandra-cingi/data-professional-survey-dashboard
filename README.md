@@ -6,21 +6,11 @@ This project transforms raw survey data from over 600 data professionals into an
 
 ### Dashboard Preview
 
-![Dashboard Screenshot](Images/Dashboard%20Screenshot.jpeg)
+![Dashboard Screenshot](Images/Dashboard.png)
 
 Above: A preview of the interactive dashboard showing global survey results.
 
-#### Detailed Views
-
-To provide a deeper look at the specific insights, the following close-ups highlight key areas of the analysis:
-
-![Dashboard Screenshot](Images/Countries%20and%20Favourite%20Languages.jpeg)
-
-![Dashboard Screenshot](Images/Average%20Salary%20by%20Job%20Title.jpeg)
-
-![Dashboard Screenshot](Images/Job%20Satisfaction.jpeg)
-
-The Analysis
+### The Analysis
 
 The dashboard provides a high-level view of the data profession, answering key questions such as:
 
